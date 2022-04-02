@@ -53,6 +53,18 @@
     bottom: 395px;
 }
 
+
+.mt-85 {
+    position: relative;
+    display: block;
+ color: black;
+ font-size:12px;
+ font-style: normal;
+    bottom: 450px;
+}
+
+
+
 .mt-33 {
     position: relative;
     display: block;
@@ -556,13 +568,11 @@ h6,
     border-right: none;
 }
 
-.btn.btn-primary.w-100.py-3 {
-    
-}
+
 
 .google {
     position: relative;
-    bottom: 205px;
+    bottom: 263px;
 }
 
 .contenedor.descripción {
@@ -572,7 +582,7 @@ h6,
     text-justify: center;
 }
 .logo1 {
-    display: block;
+    
     margin: 5px;
     /* max-width: 180px; */
     position: relative;
